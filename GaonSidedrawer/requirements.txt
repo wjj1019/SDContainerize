@@ -1,0 +1,9 @@
+numpy
+scipy
+opencv-python-headless
+pytesseract
+pdf2image
+pandas
+scikit-learn
+joblib
+pillow
